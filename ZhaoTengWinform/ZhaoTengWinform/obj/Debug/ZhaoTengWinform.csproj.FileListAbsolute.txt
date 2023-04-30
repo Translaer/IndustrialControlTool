@@ -1,0 +1,14 @@
+D:\GitHub\ZhaoTengWinform\ZhaoTengWinform\bin\Debug\ZhaoTengWinform.exe.config
+D:\GitHub\ZhaoTengWinform\ZhaoTengWinform\bin\Debug\ZhaoTengWinform.exe
+D:\GitHub\ZhaoTengWinform\ZhaoTengWinform\bin\Debug\ZhaoTengWinform.pdb
+D:\GitHub\ZhaoTengWinform\ZhaoTengWinform\obj\Debug\ZhaoTengWinform.csproj.AssemblyReference.cache
+D:\GitHub\ZhaoTengWinform\ZhaoTengWinform\obj\Debug\ZhaoTengWinform.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\ZhaoTengWinform\ZhaoTengWinform\obj\Debug\ZhaoTengWinform.Properties.Resources.resources
+D:\GitHub\ZhaoTengWinform\ZhaoTengWinform\obj\Debug\ZhaoTengWinform.UserLoad.resources
+D:\GitHub\ZhaoTengWinform\ZhaoTengWinform\obj\Debug\ZhaoTengWinform.csproj.GenerateResource.cache
+D:\GitHub\ZhaoTengWinform\ZhaoTengWinform\obj\Debug\ZhaoTengWinform.csproj.CoreCompileInputs.cache
+D:\GitHub\ZhaoTengWinform\ZhaoTengWinform\obj\Debug\ZhaoTengWinform.exe
+D:\GitHub\ZhaoTengWinform\ZhaoTengWinform\obj\Debug\ZhaoTengWinform.pdb
+D:\GitHub\ZhaoTengWinform\ZhaoTengWinform\obj\Debug\ZhaoTengWinform.Forms.prompt.resources
+D:\GitHub\ZhaoTengWinform\ZhaoTengWinform\obj\Debug\ZhaoTengWinform.MainForm.resources
+D:\GitHub\ZhaoTengWinform\ZhaoTengWinform\obj\Debug\ZhaoTengWinform.Forms.PIDTest.resources
